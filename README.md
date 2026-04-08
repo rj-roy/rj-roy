@@ -10,7 +10,6 @@
 -  **royjibon1517@gmail.com**
 -  <a href="https://www.linkedin.com/in/roy-jibon/">LinkedIn</a>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
