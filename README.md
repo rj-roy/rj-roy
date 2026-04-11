@@ -62,4 +62,4 @@ Component-based architecture, state management and API integration, responsive a
 </p>
 
 
-<p><img align="center" style="width: full;" src="https://github-readme-streak-stats.herokuapp.com/?user=rj-roy&" alt="rj-roy" /></p>
+<p align="center"><img align="center" style="width: full;" src="https://github-readme-streak-stats.herokuapp.com/?user=rj-roy&" alt="rj-roy" /></p>
