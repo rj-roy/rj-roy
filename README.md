@@ -1,68 +1,64 @@
-<h1 align="center">Hi 👋, I'm Jibon Roy</h1>
-<h3 align="center">Frontend developer from Bangladesh</h3>
+<h2 align="left">🚀 About Me</h2>
 
-# 👋 About Me
+###
 
-Hi there! I turn ideas into fast, elegant interfaces—crafting pixel-perfect, responsive experiences with React, Next.js, and Tailwind, powered by clean, modern JavaScript.
+<h4 align="left">Hi there! I turn ideas into fast, elegant interfaces—crafting pixel-perfect, responsive experiences with React, Next.js, and Tailwind, powered by clean, modern JavaScript.<br><br>⚛️ Develop modern UI using React.js and Next.js, 🎨 craft responsive designs with Tailwind CSS, 🧠 write efficient and scalable JavaScript (ES6+), and 📱 focus on performance, accessibility, and smooth user experience<br><br>Component-based architecture, state management and API integration, responsive and mobile-first design, and clean, maintainable, and reusable code.</h4>
 
-⚛️ Develop modern UI using **React.js** and **Next.js**, 🎨 craft responsive designs with **Tailwind CSS**, 🧠 write efficient and scalable **JavaScript (ES6+)**, and 📱 focus on performance, accessibility, and smooth user experience
+###
 
-Component-based architecture, state management and API integration, responsive and mobile-first design, and clean, maintainable, and reusable code.
+<br clear="both">
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rj-roy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rj-roy&label=Profile%20views&color=0e75b6&style=flat" alt="rj-roy" /> </p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://royjibon.online](https://royjibon.online)
+###
 
-  <h3 align="left">📫 How to reach me:</h3>
--  **royjibon1517@gmail.com**
--  <a href="https://www.linkedin.com/in/roy-jibon/">LinkedIn</a>
--  **+8801854102982
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-<p align="left">
-</p>
+###
 
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center" style="border-top: 2px solid #ccc; border-bottom: 2px solid #ccc; padding: 12px 0; display: flex; gap: 5px;">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+<div align="left">
+  <a href="https://discord.com/users/1326507611700465758" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <a href="dpjdeveloper.me@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/roy-jibon/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <a href="+8801854102982" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
+###
 
-<p align="center">
-  <img align="center" style="width: full;" src="https://camo.githubusercontent.com/5ad9d282a29e1dae4f7c634ff2665875fca860d849b9bb46edc6a68f27579144/68747470733a2f2f6769746875622d726561646d652d73746174732d6f6e652d626963652e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6e696c6c776f726b73266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b2662675f636f6c6f723d326432643264267469746c655f636f6c6f723d63353661393026746578745f636f6c6f723d666666666666" alt="rj-roy" />
-  <img align="center" style="width: full;" src="https://github-readme-streak-stats.herokuapp.com/?user=rj-roy&" alt="rj-roy" />
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/rj-roy/rj-roy/output/snake.svg" alt="Snake animation" />
+
+###
