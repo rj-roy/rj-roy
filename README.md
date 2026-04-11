@@ -1,23 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jibon Roy</h1>
 <h3 align="center">Frontend developer from Bangladesh</h3>
 
-<!-- Save this file as: about.md -->
-
 # 👋 About Me
 
 Hi there! I turn ideas into fast, elegant interfaces—crafting pixel-perfect, responsive experiences with React, Next.js, and Tailwind, powered by clean, modern JavaScript.
 
-## 🚀 Crafting Modern Web Experiences
-
 ⚛️ Develop modern UI using **React.js** and **Next.js**, 🎨 craft responsive designs with **Tailwind CSS**, 🧠 write efficient and scalable **JavaScript (ES6+)**, and 📱 focus on performance, accessibility, and smooth user experience
 
-## 💡 Specialization
-
 Component-based architecture, state management and API integration, responsive and mobile-first design, and clean, maintainable, and reusable code.
-
-## 📫 Let's Connect
-
-Feel free to reach out for collaboration, projects, or just a tech chat!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rj-roy&label=Profile%20views&color=0e75b6&style=flat" alt="rj-roy" /> </p>
