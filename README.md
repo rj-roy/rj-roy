@@ -1,4 +1,4 @@
-<img width="956" height="282" alt="rj-banner" src="https://github.com/user-attachments/assets/65f02f19-f9e3-4d04-a4a7-57d92d3dd10c" />
+<img width="1237" height="282" alt="rj-banner" src="https://github.com/user-attachments/assets/ee34a6ab-8c53-4346-b3ed-9e9a3b71381a" />
 
 <h2 align="left">🚀 About Me</h2>
 
