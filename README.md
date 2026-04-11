@@ -1,29 +1,4 @@
-<div align="center" style="background: linear-gradient(135deg, #1e293b, #0f172a, #020617); padding: 40px; border-radius: 12px; color: white;">
-
-<img src="YOUR_DIRECT_IMAGE_LINK_HERE" width="150" style="border-radius: 50%; border: 4px solid #22c55e;" />
-
-<h1>Hello, I'm <span style="color:#22c55e;">Jibon Roy</span></h1>
-
-<p style="color:#38bdf8; font-weight:500;">Learning Web Development</p>
-
-<p>
-📧 dpjdeveloper.me@gmail.com <br>
-📞 +8801854102982
-</p>
-
-<br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-
-</div>
+<img width="956" height="282" alt="rj-banner" src="https://github.com/user-attachments/assets/65f02f19-f9e3-4d04-a4a7-57d92d3dd10c" />
 
 <h2 align="left">🚀 About Me</h2>
 
