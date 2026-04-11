@@ -18,13 +18,14 @@ Component-based architecture, state management and API integration, responsive a
   <h3 align="left">📫 How to reach me:</h3>
 -  **royjibon1517@gmail.com**
 -  <a href="https://www.linkedin.com/in/roy-jibon/">LinkedIn</a>
+-  **+8801854102982
 
 <p align="left">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center" style="border-top: 2px solid #ccc; border-bottom: 2px solid #ccc; padding: 12px 0;">
+<p align="center" style="border-top: 2px solid #ccc; border-bottom: 2px solid #ccc; padding: 12px 0; display: flex; gap: 5px;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
   </a>
