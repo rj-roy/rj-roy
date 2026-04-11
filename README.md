@@ -1,114 +1,29 @@
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<div align="center" style="background: linear-gradient(135deg, #1e293b, #0f172a, #020617); padding: 40px; border-radius: 12px; color: white;">
 
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Poppins', sans-serif;
-        }
+<img src="YOUR_DIRECT_IMAGE_LINK_HERE" width="150" style="border-radius: 50%; border: 4px solid #22c55e;" />
 
-        body {
-            background: #0f172a;
-        }
+<h1>Hello, I'm <span style="color:#22c55e;">Jibon Roy</span></h1>
 
-        .banner {
-            height: 300px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 40px 80px;
-            color: white;
+<p style="color:#38bdf8; font-weight:500;">Learning Web Development</p>
 
-            /* NEW BACKGROUND */
-            background: linear-gradient(135deg, #1e293b, #0f172a, #020617);
-        }
+<p>
+📧 dpjdeveloper.me@gmail.com <br>
+📞 +8801854102982
+</p>
 
-        /* LEFT SIDE */
-        .left {
-            display: flex;
-            align-items: center;
-            gap: 20px;
-        }
+<br>
 
-        .left img {
-            width: 180px;
-            opacity: 0.9;
-        }
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 
-        /* RIGHT SIDE */
-        .right {
-            text-align: right;
-        }
-
-        .right h1 {
-            font-size: 36px;
-            font-weight: 700;
-        }
-
-        .highlight {
-            color: #22c55e;
-        }
-
-        .subtitle {
-            margin-top: 8px;
-            color: #38bdf8;
-            font-weight: 500;
-        }
-
-        .contact {
-            margin-top: 12px;
-            font-size: 14px;
-            opacity: 0.8;
-        }
-
-        .tech {
-            margin-top: 20px;
-            display: flex;
-            justify-content: flex-end;
-            gap: 12px;
-        }
-        .tech img{
-            width: 50px;
-            height: 50px;
-        }
-
-    </style>
-    </head>
-
-    <body>
-
-        <div class="banner">
-
-            <div class="left">
-                <img src="https://imgur.com/a/3YqUtXt.png" alt="workspace">
-            </div>
-
-            <div class="right">
-                <h1>Hello, I'm <span class="highlight">Jibon Roy</span></h1>
-                <div class="subtitle">Learning Web Development</div>
-
-                <div class="contact">
-                    📧 dpjdeveloper.me@gmail.com <br>
-                    📞 +8801854102982
-                </div>
-
-                <div class="tech">
-                    <i class="devicon-javascript-plain colored"></i>
-                    <i class="devicon-react-original colored"></i>
-                    <i class="devicon-nextjs-original"></i>
-                    <i class="devicon-tailwindcss-plain colored"></i>
-                    <i class="devicon-bootstrap-plain colored"></i>
-                    <i class="devicon-mongodb-plain colored"></i>
-                    <i class="devicon-mysql-plain colored"></i>
-                    <i class="devicon-html5-plain colored"></i>
-                    <i class="devicon-css3-plain colored"></i>
-                </div>
-            </div>
-
-        </div>
-
+</div>
 
 <h2 align="left">🚀 About Me</h2>
 
