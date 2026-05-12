@@ -6,7 +6,7 @@ Skilled in JavaScript, Python, and Dart, with working knowledge of Java, I also 
 I am highly motivated to collaborate on impactful projects, continuously learn emerging technologies, and build innovative digital solutions that create real value.
 
 **Email:** dpjdeveloper.me@gmail.comm     
-**Portfolio:** (https://royjibon.online)  
+**Portfolio:** https://royjibon.online
 **LinkedIn:** [roy-jibon](https://www.linkedin.com/in/roy-jibon/)
    
 # 💻 Tech Stack:
@@ -17,7 +17,7 @@ I am highly motivated to collaborate on impactful projects, continuously learn e
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ## Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Typescript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -32,16 +32,16 @@ I am highly motivated to collaborate on impactful projects, continuously learn e
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
    
 # 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=faisal-shohag)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=faisal-shohag)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=faisal-shohag&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-shohag&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-shohag&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=faisal-shohag&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<!--![](https://github-profile-trophy.vercel.app/?username=faisal-shohag&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)-->
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=faisal-shohag&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!--![](https://github-contributor-stats.vercel.app/api?username=faisal-shohag&limit=5&theme=radical&combine_all_yearly_contributions=true)-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=faisal-shohag&icon=1&color=4)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=faisal-shohag&icon=1&color=4)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
