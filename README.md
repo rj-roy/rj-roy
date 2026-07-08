@@ -39,14 +39,4 @@ I'm Jibon — a full-stack developer based in Dinajpur, Bangladesh, who builds c
 ![Google Stitch](https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
    
-## 📊 GitHub Stats:
-
-![Jibon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rj-roy&show_icons=true&theme=radical&hide_border=true)
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rj-roy&theme=radical&no-frame=true&row=1&column=6)
-
-## 🔝 Top Contributed Repo
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rj-roy&layout=compact&theme=radical&hide_border=true)
+<!-- git  -->
